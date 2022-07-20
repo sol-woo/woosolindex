@@ -111,9 +111,6 @@ header nav ul li {
   position:absolute; left:0; top:0;
 }
 
-
-
-
 .section2 .PROJECT1 .PROJECT1_box .box1 .box1item3,
 .section3 .PROJECT2 .PROJECT2_box .box2 .box2item3 {
   width: 40%;
@@ -123,9 +120,6 @@ header nav ul li {
 
 
 }
-
-
-
 
 .section2 .PROJECT1 .PROJECT1_box .box1 .box1item3 .box_text1 p,
 .section3 .PROJECT2 .PROJECT2_box .box2 .box2item3 .box_text1 p {
@@ -201,17 +195,10 @@ p {
  
 }
 
-
-
-
 .section2 .PROJECT1 .PROJECT1_box .box1 .box1item3 .Btn a:nth-of-type(1) {
   margin-right: 10px;
 
 }
-
-
-
-
 
 .section4 .about {
   width: 100%;
@@ -229,18 +216,7 @@ p {
   background-color: transparent;
   border:1px solid #fff;
  
-  
-   
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -265,19 +241,9 @@ p {
   font-size: 1rem;
   font-weight: 600;
   text-align: left;
-  margin-top: 10px;
+  /* margin-top: 10px; */
   margin-left: 60px;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* footer */
@@ -729,5 +695,3 @@ nav > ul > li.active a{
 }
 
 /* section1// */
-
-
